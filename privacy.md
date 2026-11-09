@@ -6,13 +6,13 @@ permalink: /privacy/
 
 # RepQuest privacy policy
 
-_Last updated 9 November 2026_
+_Last updated 10 November 2026_
 
 ## The short version
 
 RepQuest is a workout log with a game, made by MujarStudios in the Philippines. It works without an account, and everything you log stays on your phone unless you choose to back it up. There are no ads, no analytics in the app and no tracking across other apps or websites, and we never sell your data or use it for advertising.
 
-A few things do leave your phone. To check whether you have RepQuest Pro, the app asks RevenueCat, our subscription provider, which knows you by a random identifier, or your account’s if you are signed in. If you create an account and agree to back up your data, your email address and a copy of your data are stored in our cloud database in the European Union. If you buy RepQuest Pro, the store takes the payment and tells us about the sale. So that free days come once per phone, the app sends our cloud database a one-way code made from your phone, never tied to you, your account or what you log. While you track a run, walk or ride with the real map on, the app downloads the map around you from OpenFreeMap, which can tell from it roughly where you are, never your route. Each is explained below, with your rights and how to reach us.
+A few things do leave your phone. To check whether you have RepQuest Pro, the app asks RevenueCat, our subscription provider, which knows you by a random identifier, or your account’s if you are signed in. If you create an account and agree to back up your data, your email address and a copy of your data are stored in our cloud database in the European Union. If you buy RepQuest Pro, the store takes the payment and tells us about the sale. So that free days come once per phone, the app sends our cloud database a one-way code made from your phone, never tied to you, your account or what you log. While you track a run, walk or ride with the real map on, the app downloads the map around you from OpenFreeMap, which can tell from it roughly where you are, never your route. Once you have accepted the terms, the app also asks Expo whether there is a newer version of its code and pictures, giving it a random identifier made on your phone. Each is explained below, with your rights and how to reach us.
 
 If you are under 18, ask a parent or guardian to read this with you. What you log stays on your phone, and nothing is backed up unless you make an account and tick the box that agrees to it.
 
@@ -72,6 +72,12 @@ A new hero’s 14 free days come once per phone. So that a new hero, a new accou
 
 Whether the free days, or a tester’s free year, have run out is then worked out on your phone. A hero made since 9 November 2026 also keeps, with its own data (and its backup, if you have one), the date its phone first had free days.
 
+## App updates
+
+Google Play and the App Store deliver new versions of RepQuest. The app can also download small updates to its own code and pictures directly from Expo (650 Industries, Inc., in the United States), whose tools it is built with.
+
+Once you have accepted the terms, the app asks Expo each time it starts whether there is an update for it. With that request Expo receives a random identifier made on your phone, never tied to you, your account or anything you log, your phone’s system (Android or iPhone), the version of the app and of any update it is running, and your IP address, as with any connection. Nothing you log is sent. Expo keeps its records of these requests under its own privacy policy. The app has no setting that turns this check off; removing the app ends it.
+
 ## Notifications
 
 Rest timer alerts and training reminders are scheduled on your phone and only if you turn them on. No push notification service is used.
@@ -96,7 +102,7 @@ Backing up the data above that can count as health data: your explicit consent, 
 
 Remembering which phones have had free days, and checking the phone’s clock: our legitimate interest in offering free days fairly, once per phone, and preventing abuse of the free offer. The code is one-way and holds nothing else, so the impact on you is small, and it does not override your rights.
 
-Keeping RepQuest secure, preventing abuse, fixing problems, answering your messages and defending legal claims: our legitimate interest in running a safe, working service, which does not override your rights. Keeping records the law requires, such as for tax, and answering lawful requests from authorities: a legal obligation.
+Keeping RepQuest secure and up to date, preventing abuse, fixing problems, answering your messages and defending legal claims: our legitimate interest in running a safe, working service, which does not override your rights. Keeping records the law requires, such as for tax, and answering lawful requests from authorities: a legal obligation.
 
 You do not have to give us any personal data to use RepQuest. An email address is needed only for cloud backup, and a store account only to buy RepQuest Pro. The app makes no automated decisions about you that have legal or similarly significant effects, and it does not profile you: the end of the free days is a fixed rule, once per phone, worked out on your phone. We do not use your data to train artificial intelligence models.
 
@@ -104,13 +110,13 @@ You do not have to give us any personal data to use RepQuest. An email address i
 
 These providers handle your data for us, each under data processing terms that let it use the data only to provide its service to us and require it to protect the data as well as this policy does: Supabase (cloud backup, sign-in and the free days’ check, storing data in the European Union) and RevenueCat, Inc. (subscriptions, in the United States).
 
-Google provides our email (sign-in codes, and messages to and from us) under its own terms and privacy policy. Google Play and Apple handle your downloads and purchases as independent companies, under their own privacy policies. OpenFreeMap provides the map drawn while you track an activity with the real map on, as an independent service under its own privacy policy; it is in the European Union (Hungary) and may serve the map through Cloudflare, which runs servers around the world.
+Google provides our email (sign-in codes, and messages to and from us) under its own terms and privacy policy. Google Play and Apple handle your downloads and purchases as independent companies, under their own privacy policies. OpenFreeMap provides the map drawn while you track an activity with the real map on, as an independent service under its own privacy policy; it is in the European Union (Hungary) and may serve the map through Cloudflare, which runs servers around the world. Expo delivers updates to the app, under its own terms and privacy policy; it is in the United States.
 
 We share your data with no one else, except that we may disclose it when the law requires it, for example to obey a valid court order, or where it is needed to protect someone’s safety or to defend our legal rights. If RepQuest is ever transferred to another business, your data may go with it, and that business must keep to this policy.
 
 ## Data sent to other countries
 
-We are in the Philippines, and we reach the cloud backup and our providers’ records from there to run and support RepQuest. Our cloud database is in the European Union (Ireland), and RevenueCat is in the United States. Supabase, RevenueCat and Google may also handle data in other countries, including the United States, to run their services. These countries’ data protection laws may differ from yours.
+We are in the Philippines, and we reach the cloud backup and our providers’ records from there to run and support RepQuest. Our cloud database is in the European Union (Ireland), and RevenueCat and Expo are in the United States. Supabase, RevenueCat and Google may also handle data in other countries, including the United States, to run their services. These countries’ data protection laws may differ from yours.
 
 Where the law requires a safeguard for these transfers, such as for data from the EU, the EEA, the UK or Switzerland, we rely on the standard contractual clauses approved by the European Commission (with the UK’s addendum) in Supabase’s and RevenueCat’s data processing terms. You can ask us for a copy.
 
@@ -134,7 +140,7 @@ Export all your data as a file at any time (Settings → Your data → Export al
 
 If you no longer have the app, email us from your account’s address to have your account deleted; we will delete it within 30 days and confirm. To have a purchase record made without an account deleted sooner, write to us with the order number on your store receipt.
 
-You can turn off location, motion, camera and notification access in your phone’s settings at any time, and the rest of the app keeps working. You can turn off the real map, so that no map is downloaded, in Settings → Workouts. Erasing your data does not clear the error log (clear it in Settings → Help & tutorials), the random identifier RevenueCat knows the phone by, so that a purchase made on it keeps working, or when the phone’s free days began, as they come once per phone. Because the free-days code is not tied to you, we cannot find yours from your name or email address; it is deleted two years after your phone was last seen.
+You can turn off location, motion, camera and notification access in your phone’s settings at any time, and the rest of the app keeps working. You can turn off the real map, so that no map is downloaded, in Settings → Workouts. Erasing your data does not clear the error log (clear it in Settings → Help & tutorials), the random identifier RevenueCat knows the phone by, so that a purchase made on it keeps working, the random identifier Expo’s update check uses, or when the phone’s free days began, as they come once per phone. Because the free-days code is not tied to you, we cannot find yours from your name or email address; it is deleted two years after your phone was last seen.
 
 ## Your rights
 
