@@ -6,13 +6,13 @@ permalink: /privacy/
 
 # RepQuest privacy policy
 
-_Last updated 10 November 2026_
+_Last updated 11 November 2026_
 
 ## The short version
 
 RepQuest is a workout log with a game, made by MujarStudios in the Philippines. It works without an account, and everything you log stays on your phone unless you choose to back it up. There are no ads, no analytics in the app and no tracking across other apps or websites, and we never sell your data or use it for advertising.
 
-A few things do leave your phone. To check whether you have RepQuest Pro, the app asks RevenueCat, our subscription provider, which knows you by a random identifier, or your account’s if you are signed in. If you create an account and agree to back up your data, your email address and a copy of your data are stored in our cloud database in the European Union. If you buy RepQuest Pro, the store takes the payment and tells us about the sale. So that free days come once per phone, the app sends our cloud database a one-way code made from your phone, never tied to you, your account or what you log. While you track a run, walk or ride with the real map on, the app downloads the map around you from OpenFreeMap, which can tell from it roughly where you are, never your route. Once you have accepted the terms, the app also asks Expo whether there is a newer version of its code and pictures, giving it a random identifier made on your phone. Each is explained below, with your rights and how to reach us.
+A few things do leave your phone. To check whether you have RepQuest Pro, the app asks RevenueCat, our subscription provider, which knows you by a random identifier, or your account’s if you are signed in. If you create an account and agree to back up your data, your email address and a copy of your data are stored in our cloud database in the European Union. If you make or join a party, a small board shared with friends, its members see your hero’s name, your rewarded workouts this week, your weeks on plan in a row and your hero’s best stage. If you buy RepQuest Pro, the store takes the payment and tells us about the sale. So that free days come once per phone, the app sends our cloud database a one-way code made from your phone, never tied to you, your account or what you log. While you track a run, walk or ride with the real map on, the app downloads the map around you from OpenFreeMap, which can tell from it roughly where you are, never your route. Once you have accepted the terms, the app also asks Expo whether there is a newer version of its code and pictures, giving it a random identifier made on your phone. Each is explained below, with your rights and how to reach us.
 
 If you are under 18, ask a parent or guardian to read this with you. What you log stays on your phone, and nothing is backed up unless you make an account and tick the box that agrees to it.
 
@@ -40,6 +40,8 @@ If you track a run, walk, ride or hike, the app uses your phone’s location whi
 
 With the real map on (Settings → Workouts → Real map while tracking, on unless you turn it off), the tracking screen also shows the streets, parks and water around you. To draw them, the app downloads squares of map from OpenFreeMap, a free map service run by Hyperknot Software Kft. in Hungary, with map data from OpenStreetMap. Each download asks for one square about 2.4 km across (smaller away from the equator), so OpenFreeMap can tell from it roughly where you are, and it receives your phone’s IP address, as any download does. It is an independent service with its own privacy policy, which says it keeps no IP addresses in its access logs. The app never sends it your route, your exact position, your account or anything else about you, and keeps the squares only in its memory while it runs. With the real map off, the app downloads no map and draws your route on the game’s own map art.
 
+While you track a walk, run or hike, the app also uses your location to let you pick up finds: small rewards for your hero. Some are placed on footpaths and in parks near you and picked up when you come close, and one more comes with each kilometre you cover. Where the placed ones are is worked out on your phone, from the map squares it has already downloaded. Nothing more is downloaded or sent for finds. The app keeps when you picked each find up and the essence it gave your hero, never where a find was or where you were; that record, with no place in it, is part of your hero’s progress, and of its cloud backup if you have one.
+
 If you turn on step counting, the app reads your steps from your phone’s motion sensor (on iPhone, the day’s count from Motion & Fitness) to show your daily total and the steps in each activity. On Android, if you also allow it, the app reads the day’s step count from Health Connect, where your phone or apps such as Google Fit record steps, so that the steps you take while RepQuest is closed count too. It reads only the step count, never writes to Health Connect, and uses what it reads only to show your steps in the app, as Google Play’s Health Connect policy requires, including its limited-use rules: never sold, shared or used for advertising. Step counts stay on your phone, apart from a workout image or a data export you make yourself.
 
 ## Workout images and photos
@@ -55,6 +57,16 @@ If you create an account to back up your progress, we store your email address, 
 The copy is stored with Supabase, our database and sign-in provider, in its data centre in the European Union (Ireland). Each account can reach only its own data. As the service’s administrators we can technically reach it too, and we do so only to run, fix or protect the service, to answer a request from you, or when the law requires it.
 
 Sign-in codes (and the code that confirms it’s you before your account is deleted) are emailed to you through our email provider, currently Google’s Gmail service, which keeps a copy of each email sent (your address and the code) in our email account; we delete those copies within 30 days. Like any online service, Supabase also records technical details of each sign-in and request, such as your email address or IP address, the time and your phone’s software, to run and secure the service.
+
+## Parties
+
+A party is a small board you can share with friends. It is off until you make or join one, and each time the app first asks you to tick a box that says what will be shown. A party needs an account, because the board has to know which member is you.
+
+While you are in a party, the app sends our cloud database your hero’s name and three numbers your phone works out: your rewarded workouts this week (never more than 7), your weeks on plan in a row, and your hero’s best stage in the game. It sends them when you make or join a party, when you open the boards and when they change. Nothing else from your log is sent for a party: no exercises, weights, body weight, height, steps, routes or places.
+
+The members of a party see each other’s hero name and those numbers, and nothing else: never your email address or your account. Anyone who has a party’s code can join it and see its board, so share a code only with people you know; the party’s owner can remove a member and give the party a new code. A hero’s name is typed by its player. To report a name or a member, use Report on the board: it opens an email to us that you send yourself.
+
+Your row is stored with Supabase, beside your account, until you leave the party, until its owner removes you, or until you delete your account, which takes you out of every party; a party with no members is deleted. We also remove a member whose app has not updated their row for a year. On your phone the app keeps only whether you are in a party.
 
 ## Subscriptions
 
@@ -90,7 +102,7 @@ If you write to us, or send us an error report, we receive your email address an
 
 Some of what you log can count as health data, or other sensitive data, in some countries: your workouts, body weight, height, steps, goals such as fat loss or health, and how experienced you are. From your phone’s sensors the app reads only your location while you track an activity, your steps if you turn on step counting (on Android, also the day’s step count from Health Connect if you allow it), and the camera when you take a photo for a workout image. It reads nothing else from Health Connect, writes nothing to it, and does not read Apple Health or any other health data.
 
-All of this stays on your phone, unless you back up your workouts, body weight, goals and experience by creating an account and agreeing to it, or put some of it in a workout image or a data export you share yourself; the app never uploads routes, steps or your height, which is never part of the backup. Your height and body weight are used only to show your BMI and what training builds at your size, on your phone. We never use any of it for advertising, marketing or data mining, and never sell it.
+All of this stays on your phone, unless you back up your workouts, body weight, goals and experience by creating an account and agreeing to it, or put some of it in a workout image or a data export you share yourself; the app never uploads routes, steps or your height, which is never part of the backup. If you join a party, your rewarded workouts this week and your weeks on plan in a row are shown to its members, with your agreement. Your height and body weight are used only to show your BMI and what training builds at your size, on your phone. We never use any of it for advertising, marketing or data mining, and never sell it.
 
 ## Why we use your data, and on what grounds
 
@@ -99,6 +111,8 @@ Everything we receive comes from you, from your phone, or from the stores and Re
 Running the cloud backup and signing you in, checking and recording your RepQuest Pro subscription, and downloading the map around you while you track an activity with the real map on: because it is needed to provide what you asked for under our terms (contract).
 
 Backing up the data above that can count as health data: your explicit consent, which you give by ticking the box that names this data before the app sends you a sign-in code. It is separate from accepting the terms, and without it the app makes no account and backs nothing up. You can withdraw it at any time by deleting your account in Settings → Account & backup, which deletes the backup, without affecting what was done before.
+
+Showing your hero’s name and numbers to the members of a party: your explicit consent, which you give by ticking the box that names them each time you make or join a party. It is separate from accepting the terms and from the backup. You can withdraw it at any time by leaving the party, which removes your row from its board, without affecting what was shown before.
 
 Remembering which phones have had free days, and checking the phone’s clock: our legitimate interest in offering free days fairly, once per phone, and preventing abuse of the free offer. The code is one-way and holds nothing else, so the impact on you is small, and it does not override your rights.
 
@@ -111,6 +125,8 @@ You do not have to give us any personal data to use RepQuest. An email address i
 These providers handle your data for us, each under data processing terms that let it use the data only to provide its service to us and require it to protect the data as well as this policy does: Supabase (cloud backup, sign-in and the free days’ check, storing data in the European Union) and RevenueCat, Inc. (subscriptions, in the United States).
 
 Google provides our email (sign-in codes, and messages to and from us) under its own terms and privacy policy. Google Play and Apple handle your downloads and purchases as independent companies, under their own privacy policies. OpenFreeMap provides the map drawn while you track an activity with the real map on, as an independent service under its own privacy policy; it is in the European Union (Hungary) and may serve the map through Cloudflare, which runs servers around the world. Expo delivers updates to the app, under its own terms and privacy policy; it is in the United States.
+
+The members of a party you make or join receive what the section on parties lists, and nothing else. They are other players, not providers of ours: what they do with what they see is theirs to answer for.
 
 We share your data with no one else, except that we may disclose it when the law requires it, for example to obey a valid court order, or where it is needed to protect someone’s safety or to defend our legal rights. If RepQuest is ever transferred to another business, your data may go with it, and that business must keep to this policy.
 
@@ -128,6 +144,8 @@ At RevenueCat: a signed-in account’s purchase record is deleted when you delet
 
 Free-days codes: kept with their two dates until two years after the phone was last seen, then deleted. On your phone, the date its free days began and the time check are kept until you remove the app.
 
+Parties: your row on a board is deleted when you leave the party, are removed from it or delete your account, and a party with no members is deleted. A member whose app has not updated their row for a year is removed. The count of your tries to make or join a party in the last hour is kept with your account, and starts again each hour.
+
 ## How we protect your data
 
 Data on your phone is protected by its app sandbox and lock screen, your sign-in is kept in the phone’s secure storage, and RepQuest uses no passwords. Data that leaves your phone travels encrypted (HTTPS), our providers encrypt the data they store, and each account can reach only its own records in the cloud database. Card details never reach us.
@@ -139,6 +157,8 @@ No system is perfectly secure. If a breach puts your data at risk, we will tell 
 Export all your data as a file at any time (Settings → Your data → Export all data), also while new terms wait for you to accept them: the screen that asks you leads there. Erase everything on the phone (Settings → Your data → Erase all data on this device; when signed in, sign out and remove it from this device). If you signed in, you can also delete your account and its cloud copy from Settings → Account & backup; this cannot be undone. Deleting your account also deletes its subscription record, at RevenueCat and in the cloud database, but it does not cancel a subscription: cancel that in Google Play or your Apple account.
 
 If you no longer have the app, email us from your account’s address to have your account deleted; we will delete it within 30 days and confirm. To have a purchase record made without an account deleted sooner, write to us with the order number on your store receipt.
+
+Leave a party at any time from its board (Progress → Weekly plan → Parties → Leave party): your row is removed at once, and the app stops sending your numbers once you are in no party.
 
 You can turn off location, motion, camera and notification access in your phone’s settings at any time, and stop RepQuest reading your steps in Health Connect (Settings → Workouts → Manage in Health Connect), and the rest of the app keeps working. You can turn off the real map, so that no map is downloaded, in Settings → Workouts. Erasing your data does not clear the error log (clear it in Settings → Help & tutorials), the random identifier RevenueCat knows the phone by, so that a purchase made on it keeps working, the random identifier Expo’s update check uses, or when the phone’s free days began, as they come once per phone. Because the free-days code is not tied to you, we cannot find yours from your name or email address; it is deleted two years after your phone was last seen.
 
@@ -170,7 +190,7 @@ You can confirm whether we hold it, see it, delete it and withdraw your consent 
 
 ## Children
 
-RepQuest is not directed at children under 13, and the terms do not allow them to use it. Anyone under 18 needs a parent’s or guardian’s agreement to use it, and to create an account. If we learn that we hold any personal data of a child under 13, or of a child who made an account without the agreement their law requires, we will delete it, including a backup, a purchase record and emails.
+RepQuest is not directed at children under 13, and the terms do not allow them to use it. Anyone under 18 needs a parent’s or guardian’s agreement to use it, and to create an account. That agreement is needed to join a party too, and a party should only ever be one of people you know. If we learn that we hold any personal data of a child under 13, or of a child who made an account without the agreement their law requires, we will delete it, including a backup, a purchase record and emails.
 
 ## Changes to this policy
 

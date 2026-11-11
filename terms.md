@@ -6,7 +6,7 @@ permalink: /terms/
 
 # RepQuest terms and conditions
 
-_Last updated 9 November 2026_
+_Last updated 11 November 2026_
 
 ## About these terms
 
@@ -27,6 +27,8 @@ RepQuest is a workout log with a game attached. Its exercises, starter plans, de
 Check with a doctor before you start a new exercise programme, especially if you have a health condition or an injury, or are pregnant. Stop and get help if you feel pain, dizziness, faintness or shortness of breath. Exercise carries risks: you choose your exercises, weights and pace, and you are responsible for your own safety, your equipment and your surroundings. This does not limit our own responsibilities, set out in “Our liability to you”.
 
 When you track a run, walk, ride or hike, watch where you are going, mind the traffic and follow local laws. Tracking runs only while its screen is open, and distances, paces and step counts come from your phone’s sensors, so they can be incomplete or wrong. Do not use the route map to find your way.
+
+On a tracked walk, run or hike, the game can place finds on the map around you, and gives one for each kilometre you cover. Finds are placed by a rule from map data that can be wrong, out of date or incomplete, so one can appear somewhere you cannot or should not go, such as private land, a closed path or an unsafe place. Never go anywhere that is unsafe or where you are not allowed in order to pick one up: a find is picked up from about 25 metres away, and you never have to reach one, because the finds that come with the distance you cover count the same for everything in the game. You decide where you walk, and you are responsible for where you go and for following the rules of the place you are in. This does not limit our own responsibilities, set out in “Our liability to you”.
 
 RepQuest is not a medical device. It is not meant to diagnose, treat, cure, prevent or monitor any disease or condition, and it cannot call for help: in an emergency, contact your local emergency services.
 
@@ -57,6 +59,16 @@ Your workouts, routines, notes and everything else you enter are yours. You give
 Workout images you make, and the photos you put in them, stay yours. You choose where to share them, and the service you share them to has its own terms. Share only photos you have the right to use, and ask the people in them first. The game’s art in an image (your hero, its companion, the scenes and the RepQuest mark) is still RepQuest’s, but you may share it as part of your workout image.
 
 If you send us ideas or suggestions, we may use them to improve RepQuest without owing you anything for them.
+
+## Parties
+
+A party is a small board you can share with friends, by a code. It is optional, and it needs an account. Its members see each other’s hero name, rewarded workouts this week, weeks on plan in a row and best stage in the game, as the Privacy Policy describes. Each member’s numbers come from their own phone and are not checked by us, and a place on a board earns nothing in the game.
+
+Make or join a party only with people you know, and pass a party’s code only to them. Do not use a hero name that is offensive, hateful or sexual, that harasses or threatens anyone, that pretends to be someone else, or that breaks the law. Do not use a party to push anyone to train more than is good for them. If you are under 18, your parent or guardian must agree to you joining a party.
+
+A party’s owner can remove a member and give the party a new code. You can report a name or a member with Report on the board, which opens an email to us. We read every report, and we may remove a name, a member or a party that breaks these terms. We may stop someone who keeps breaking them from using parties, as “Ending this agreement” describes.
+
+You can leave a party at any time, and your row is removed from its board at once. Deleting your account takes you out of every party. When a party’s owner leaves, the party passes to its longest-standing member, and a party with no members is deleted. We may remove a member whose app has not updated their row for a year. Parties may sometimes be unavailable, and we may change or end them as “Changes to the app” describes.
 
 ## The game
 
