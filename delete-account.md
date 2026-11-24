@@ -16,6 +16,8 @@ RepQuest is made by MujarStudios. You don't need an account to use RepQuest. An 
 
 This permanently deletes your account and its data in the app's cloud backup at once: workouts, routines, exercises, your hero and game progress, and settings. It can't be undone. (Copies in our database provider's logs and backups expire later, as below.)
 
+It also deletes, at once, what other players could see of you: your entry on the leaderboards, if you joined them, your row on the board of every party you are in, and your hero page, if you turned one on, with your friends list and the friend requests you sent and received. A party you made passes to its longest-standing member, or ends if you were its only member. A note that we hid a leaderboard entry of yours is deleted with the account too, and so are a note that we hid your hero page, the reports you made, the blocks you made and the ones that named you, and our records of any name of yours that was reported.
+
 It also removes the account's data from the phone you delete it on, and its exported files and workout images there. The phone then goes back to its guest data, which stays until you erase it in **Settings → Your data**. On other phones signed in to the account, its copy stays until you sign out there and choose **Remove from this device**.
 
 If our terms have changed and you have not accepted them yet, the screen that asks you to accept them leads to **Delete your account** too.

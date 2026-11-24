@@ -6,7 +6,7 @@ permalink: /terms/
 
 # RepQuest terms and conditions
 
-_Last updated 11 November 2026_
+_Last updated 24 November 2026_
 
 ## About these terms
 
@@ -22,7 +22,7 @@ To create an account for cloud backup, you must also be old enough to agree to t
 
 ## Your health comes first
 
-RepQuest is a workout log with a game attached. Its exercises, starter plans, demos, form cues, rest timers and rewards are general information, not medical, fitness or nutrition advice, and they are not tailored to you. The game’s stats are fictional, not health measurements.
+RepQuest is a workout log with a game attached. Its exercises, starter plans, demos, form cues, rest timers and rewards are general information, not medical, fitness or nutrition advice. A starter plan is made by fixed rules from the answers you give: your goals, what you train with, your experience and, if you give them, your height and weight. No trainer or doctor wrote it for you, and it knows nothing else about your health. The game’s stats are fictional, not health measurements.
 
 Check with a doctor before you start a new exercise programme, especially if you have a health condition or an injury, or are pregnant. Stop and get help if you feel pain, dizziness, faintness or shortness of breath. Exercise carries risks: you choose your exercises, weights and pace, and you are responsible for your own safety, your equipment and your surroundings. This does not limit our own responsibilities, set out in “Our liability to you”.
 
@@ -62,13 +62,59 @@ If you send us ideas or suggestions, we may use them to improve RepQuest without
 
 ## Parties
 
-A party is a small board you can share with friends, by a code. It is optional, and it needs an account. Its members see each other’s hero name, rewarded workouts this week, weeks on plan in a row and best stage in the game, as the Privacy Policy describes. Each member’s numbers come from their own phone and are not checked by us, and a place on a board earns nothing in the game.
+A party is a small board you can share with friends, by a code. It is optional, and it needs an account. Its members see each other’s hero name, rewarded workouts this week, weeks on plan in a row and best stage in the game and, for a member who agreed to show them, the title the hero wears and the flag of the country or region they chose (if they chose one), as the Privacy Policy describes. Each member’s numbers come from their own phone and are not checked by us, and a place on a board earns nothing in the game.
 
-Make or join a party only with people you know, and pass a party’s code only to them. Do not use a hero name that is offensive, hateful or sexual, that harasses or threatens anyone, that pretends to be someone else, or that breaks the law. Do not use a party to push anyone to train more than is good for them. If you are under 18, your parent or guardian must agree to you joining a party.
+Make or join a party only with people you know, and pass a party’s code only to them. Do not use a hero name that is offensive, hateful or sexual, that harasses or threatens anyone, that pretends to be someone else, or that breaks the law, or anything else “What is not allowed” lists. Do not use a party to push anyone to train more than is good for them. If you are under 18, your parent or guardian must agree to you joining a party.
 
-A party’s owner can remove a member and give the party a new code. You can report a name or a member with Report on the board, which opens an email to us. We read every report, and we may remove a name, a member or a party that breaks these terms. We may stop someone who keeps breaking them from using parties, as “Ending this agreement” describes.
+A party’s owner can remove a member and give the party a new code. You can report a member, or block them, from their row on the board, as “Reports and our decisions” and “Blocking” describe. We may remove a name, a member or a party that breaks these terms, and we may stop someone who keeps breaking them from using parties, as “Ending this agreement” describes.
 
 You can leave a party at any time, and your row is removed from its board at once. Deleting your account takes you out of every party. When a party’s owner leaves, the party passes to its longest-standing member, and a party with no members is deleted. We may remove a member whose app has not updated their row for a year. Parties may sometimes be unavailable, and we may change or end them as “Changes to the app” describes.
+
+## Leaderboards
+
+Leaderboards are boards that every RepQuest player with an account can read. They are optional: you are on them only if you join, and the app first asks you to tick a box that says what will be shown. Once you have joined, other players can see your hero’s name, the title it wears, the flag of the country or region you chose (if you chose one), your rewarded workouts this week, your hero’s best stage in the game and its level, as the Privacy Policy describes. Each player’s numbers come from their own phone: we hold them to what the game allows and check nothing more, and a place on a leaderboard earns nothing in the game.
+
+A hero’s name on a leaderboard is public, so do not put your real name or anything private in it. A leaderboard shows a name as “How names are shown” describes, so it can differ from the name you typed. Do not use a hero name that is offensive, hateful or sexual, that harasses or threatens anyone, that pretends to be someone else, that gives away anyone’s personal details, or that breaks the law. Do not post numbers you did not earn by playing, for example by changing the app. Do not use a leaderboard to push anyone, yourself included, to train more than is good for them: your hero loses nothing on a rest day. If you are under 18, your parent or guardian must agree to you joining the leaderboards.
+
+You can report a player, or block them, from their entry’s row, as “Reports and our decisions” and “Blocking” describe. You can also hide an entry on your own phone from its row, at once and without waiting for us. We may hide an entry from other players if its name breaks these terms or the law, or its numbers were clearly not earned by playing. If we do, the app tells you that your entry is hidden and why, and you can ask us to look again, as “Asking us to look again” describes. We may stop someone who keeps breaking these terms from using the leaderboards, as “Ending this agreement” describes.
+
+You can leave the leaderboards at any time, from your own entry under the boards, and your entry is deleted from every board at once. Deleting your account deletes your entry too. We may delete an entry whose app has not updated it for a year. Leaderboards may sometimes be unavailable, and we may change or end them as “Changes to the app” describes.
+
+## Hero pages and friends
+
+A hero page is a page about your hero that other players can open. It is optional and needs an account: it is off until you turn it on, and the app first asks you to tick a box that says what it shows. It shows your hero as it looks, with its companion and the training hall, pose and motto you choose (a motto is a line from RepQuest’s own list, never words you type), its name, the title it wears and the flag of the country or region you chose (if you chose one), its level, Training Rank and best stage in the game, your rewarded workouts this week, how many achievements and looks you have, and up to three achievements you pick, as the Privacy Policy describes. Your workouts logged in all and your weeks on plan in a row are on it only while you switch them on. Each number comes from your own phone: we hold it to what the game allows and check nothing more, and nothing in the game is earned by a page or a friend.
+
+Your friends can open your page. If you switch it on, so can the players who see you on a leaderboard you joined or in a party you share, and they can ask to be your friend from it. Friends add each other by a code each page has, which you choose whom to give and can change at any time, or from a page they can open. While a request waits, the player who sent it sees your hero’s name, the title it wears and your flag, and you see theirs, with its level and best stage. A request waits 14 days for an answer, and the same player can ask again only 30 days after they last asked. Either of you can remove the other at any time, and neither is sent a message about it. Do not use a page or a request to bother anyone, or to push anyone, yourself included, to train more than is good for them: your hero loses nothing on a rest day. If you are under 18, your parent or guardian must agree to you turning on a hero page.
+
+You can turn your page off at any time, from the Friends screen: it is deleted at once, with your friends list and your requests. Deleting your account does the same. We may delete a page whose app has not updated it for a year. Hero pages and friends may sometimes be unavailable, and we may change or end them as “Changes to the app” describes.
+
+## What is not allowed
+
+These rules apply to everything of yours that other players can see: your hero’s name, its title and flag, a party, a leaderboard entry, a hero page and a friend request. Do not use any of them for anything that is hateful (that attacks people for their race, ethnicity, nationality, religion, disability, sex, gender, sexual orientation or age), sexual, violent or threatening, that harasses or bullies anyone, that urges anyone to hurt themselves, that pretends to be someone else (including RepQuest or its staff), that gives away anyone’s personal details, that advertises or spams, or that breaks the law.
+
+Do not post numbers you did not earn by playing, use another account to get around a block or one of our decisions, or report players to harm them rather than because they broke these rules.
+
+If you break these rules, we may show your hero’s name as “Hero”, hide your leaderboard entry or your hero page, remove you from a party, and stop you from using parties, leaderboards and hero pages, as the sections below and “Ending this agreement” describe.
+
+## How names are shown
+
+A hero’s name is typed by its player. Before a party’s board, a leaderboard or a hero page shows one, RepQuest takes emoji, other pictures and characters that cannot be seen out of it, and shows it as “Hero” if it holds a word on our list of words that are not allowed, or if it would pass for RepQuest or its staff (such as “admin” or “support”). Our server and the app do this by themselves as a name is saved and shown: no person decides it, and the name then shows as “Hero” to everyone, you included. No list is perfect: a name it misses can still be reported, and if it catches a name it should not, choose another one in the app or write to us.
+
+## Reports and our decisions
+
+You can report a player from their row on a party’s board or a leaderboard, from their hero page or from their friend request, by choosing a reason: an offensive name, pretending to be someone else, numbers that cannot be real, or unwanted contact. A report tells us the reason and what it is about, never words of your own, and the player is never told who reported them. Where the app cannot send reports yet, Report opens an email to us that you send yourself.
+
+When three different players, each with an account at least a week old, report a name itself (as offensive or as pretending to be someone else), every name of that player’s hero is shown as “Hero” to other players. This happens by itself, without a person deciding it, and lasts only while those reports are kept: at most 30 days, unless we decide sooner. The player still sees their own name and is not told, so that nobody learns who reported them.
+
+We read reports and look at the names shown as “Hero” this way. We may then clear a name, which stands from then on; uphold it, so that it is shown as “Hero” to everyone, its player included, for good; hide a leaderboard entry or a hero page from other players; or take the other steps “What is not allowed” describes. When we uphold your name or hide your entry or your page, a person at RepQuest has decided it, and the app tells you what we did and why. We may stop someone who keeps breaking these rules from using parties, leaderboards and hero pages, as “Ending this agreement” describes.
+
+## Blocking
+
+You can block a player from their row on a party’s board or a leaderboard, from their hero page or from their friend request. They are not told. Their leaderboard entry is then hidden from you, their row on the board of a party you share shows as a blocked player (the party goes on working), neither of you can open the other’s hero page or send the other a friend request, and any friendship between you ends. You can see your blocks, and lift any of them, on the Blocked players screen. Hide on this phone, on a leaderboard’s row, works on that phone alone.
+
+## Asking us to look again
+
+If we upheld your hero’s name or hid your leaderboard entry or hero page, and you think we got it wrong, write to us at mujarstudios@gmail.com and say why. A person will look at it again and tell you what they decided. Asking is free, and it does not stop you from going to court or to your local consumer authority at any time.
 
 ## The game
 
